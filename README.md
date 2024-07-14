@@ -10,6 +10,7 @@ HTML and CSS for Beginners
     Parts 5: Links
     Parts 6: Images
     Parts 7: File Structure
+    
     Parts 8: Introduction to CSS
     Parts 9: External CSS
     Part 10: Divs & Spans
